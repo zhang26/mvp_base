@@ -31,4 +31,7 @@ package com.example.zhang.mvp_shiyong.model.biz;
 
 public class A {
     public String str = "123";
+    public void show(){
+
+    }
 }
